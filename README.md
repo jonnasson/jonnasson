@@ -6,6 +6,6 @@ Hi there 👋
 
 💬 Ask me about collaborating on interesting projects or jobs.
 
-⚡ Fun fact: I already started coding back in 2011 with HTML&CSS, then switched to digital marketing / affiliate marketing shortly after only to switch back to coding by doing the Le Wagon Full-Stack Bootcamp from 01-03/2021 :) But I did some coding here and there in between for own marketing side projects, also experimented with Python & Javascript.
+⚡ Fun fact: I already started coding back in 2011 with HTML&CSS, then switched to digital marketing / affiliate marketing shortly after. Recently I switched back to coding and successfully completed the Le Wagon Full-Stack Bootcamp in early 2021 :) In between, I still did some coding for own marketing side projects and also experimented with Python & Javascript.
 
-You can always reach out to me on LinkedIn.
+You can always reach out to me on => linkedin.com/in/jonaskozik
